@@ -32,8 +32,8 @@
 * Validations that prevent users from submitting invalid data (new accounts must be unique, posts must be within 1 and 200 characters)
 * Authorization checks that ensure users can only edit and delete posts they’ve made
 
-## Links to developer’s :octocat:
-[Natalia Polishchuk] (https://github.com/natapoli90)
-[Bill Himmelsbach] (https://github.com/billhimmelsbach)
-[Daniel Oh] (https://github.com/danieloh91)
-[Ted Anyansi] (https://github.com/tgrahams101)
+## Links to Developer’s Github:octocat:
+* [Natalia Polishchuk] (https://github.com/natapoli90)
+* [Bill Himmelsbach] (https://github.com/billhimmelsbach)
+* [Daniel Oh] (https://github.com/danieloh91)
+* [Ted Anyansi] (https://github.com/tgrahams101)
