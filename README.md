@@ -23,12 +23,12 @@
 
 ## Deliverables to be Completed
 * User can sign up/log in with a unique email address
-* Profile page with previously created posts
-* City page that shows all posts created by community
+* Users can view their profile page with their previously created posts
+* City page that shows all posts created by the community
 * Form to generate a post associated with a city page
 * Notification that post was successfully submitted to city page
-* Form to update profile information
-* User is able to CRUD user account and posts
+* Users can use a form to update profile information
+* User is able to CRUD their own user account and their previous posts
 * Validations that prevent users from submitting invalid data (new accounts must be unique, posts must be within 1 and 200 characters)
 * Authorization checks that ensure users can only edit and delete posts they’ve made
 
